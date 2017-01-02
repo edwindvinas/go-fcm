@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"time"
-	"appengine/urlfetch"
+	//"appengine/urlfetch"
 )
 
 const (
